@@ -7,13 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/</link>
+      <title>About</title>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/</guid>
-      <description>а это главная страничка да-да, просто пустая страничка
-about page</description>
+      <guid>/about/</guid>
+      <description>main Hugo is the world’s fastest framework for building websites. It is written in Go.
+links It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  kofi
+Learn more and contribute on GitHub. </description>
+    </item>
+    
+    <item>
+      <title>Выпускники</title>
+      <link>/graduates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/graduates/</guid>
+      <description>Вариант оформления #1
+Москва Московский государственный технический университет имени Н. Э. Баумана (МГТУ)  Александр Галкин
+vk, tg Полина Свиридова
+vk, tg  Московский физико-технический институт (МФТИ)  Александр Галкин
+vk, tg Полина Свиридова
+vk, tg  Высшая школа экономики (ВШЭ)  Александр Галкин
+vk, tg Полина Свиридова
+vk, tg   Вариант оформления #2 (в этом случае ВУЗы не добавляются в оглавление)
+Москва  Московский государственный технический университет имени Н.</description>
     </item>
     
   </channel>
