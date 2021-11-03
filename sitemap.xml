@@ -3,16 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://olskalim.github.io/</loc>
-    <lastmod>2021-11-02T22:26:18+03:00</lastmod>
-  </url><url>
-    <loc>https://olskalim.github.io/posts/post/</loc>
-    <lastmod>2021-11-02T22:26:18+03:00</lastmod>
-  </url><url>
-    <loc>https://olskalim.github.io/posts/</loc>
-    <lastmod>2021-11-02T22:26:18+03:00</lastmod>
+    <priority>0</priority>
   </url><url>
     <loc>https://olskalim.github.io/categories/</loc>
   </url><url>
     <loc>https://olskalim.github.io/tags/</loc>
+  </url><url>
+    <loc>https://olskalim.github.io/</loc>
   </url>
 </urlset>
