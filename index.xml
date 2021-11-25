@@ -7,18 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language><atom:link href="https://ichekanov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://ichekanov.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ichekanov.github.io/about/</guid>
-      <description>main Hugo is the world’s fastest framework for building websites. It is written in Go.
-links It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  kofi
-Learn more and contribute on GitHub. </description>
-    </item>
-    
-    <item>
       <title>Выпускники</title>
       <link>https://ichekanov.github.io/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,24 +23,17 @@ VK Серёжа Лунев
     </item>
     
     <item>
-      <title>Выпускники</title>
-      <link>https://ichekanov.github.io/tut/</link>
+      <title>Обо мне</title>
+      <link>https://ichekanov.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ichekanov.github.io/tut/</guid>
-      <description>Вариант оформления #1
-Москва Московский государственный технический университет имени Н. Э. Баумана (МГТУ)  Иван Петров
-Математика, Факультет права
-История - 100, информатика - 22, математика - 51.
-VK, Telegram Пётр Иванов
-Математика, Факультет права
-VK Евгений Петросян
-Физика, Факультет лева
-Физкультура - 101.
-Telegram, Instagram  Высшая школа экономики (ВШЭ)  Иван Петров
-Математика, Факультет права
-История - 100, информатика - 22, математика - 51.
-VK, Telegram Пётр Иванов</description>
+      <guid>https://ichekanov.github.io/about/</guid>
+      <description>Образование  Высшая Школа Экономики &amp;ndash; Москва
+Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 - настоящее время Школа 827 &amp;ndash; Москва
+Инженерный класс / 09.2010 - 05.2021  Проекты  Этот сайт 😎
+Генератор статических сайтов Hugo / 09.2021 Парсер голосов из группы ВК для студсовета ВШЭ &amp;ndash; GitHub
+Python, VK api / 10.2021 Метеостанция с выводом показаний в дополненной реальности &amp;ndash; GitHub
+Arduino, ESP8266, 3D печать, MQTT, Unity, C++ / 02.</description>
     </item>
     
   </channel>
