@@ -5,7 +5,7 @@
     <link>https://ichekanov.github.io/</link>
     <description>Recent content on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://ichekanov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://ichekanov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Анализ онлайн-активности моих одногруппников</title>
       <link>https://ichekanov.github.io/online/</link>
@@ -37,11 +37,11 @@ VK Серёжа Лунев
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.github.io/about/</guid>
-      <description>Ваня Чеканов &amp;ndash; гик, электронщик, программист.
+      <description>Ваня Чеканов &amp;mdash; гик, электронщик, программист.
 В свободное время люблю проводить опросы и делать общественно полезные проекты.
-*Очень хороший и весёлый человек.  Характер общительный.  Не женат.*  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- любимый мультфильм -- Образование  Высшая Школа Экономики &amp;ndash; Москва
-Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 - настоящее время Школа №827 &amp;ndash; Москва
-Инженерный класс / 09.2010 - 05.2021  Проекты  Парсер голосов из группы ВК для студсовета ВШЭ &amp;ndash; GitHub</description>
+*Очень хороший и весёлый человек.  Характер общительный.  Не женат.*  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- любимый мультфильм -- Образование  Высшая Школа Экономики &amp;mdash; Москва
+Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 - настоящее время Школа №827 &amp;mdash; Москва
+Инженерный класс / 09.2010 - 05.2021  Проекты  Исследование активности друзей во ВКонтакте &amp;mdash; Отчёт</description>
     </item>
     
   </channel>
