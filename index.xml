@@ -2,25 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Заметочки</title>
-    <link>https://ichekanov.github.io/</link>
+    <link>https://ichekanov.ru/</link>
     <description>Recent content on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://ichekanov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Умный счётчик воды своими руками</title>
+      <link>https://ichekanov.ru/diy-water/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/diy-water/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Анализ онлайн-активности моих одногруппников</title>
-      <link>https://ichekanov.github.io/online/</link>
+      <link>https://ichekanov.ru/online/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ichekanov.github.io/online/</guid>
+      <guid>https://ichekanov.ru/online/</guid>
       <description>Одним декабрьским утром я проснулся, зашел в ВК и в очередной раз обнаружил, что мои одногруппники активно переписывались в 2 часа ночи. Меня это в очередной раз очень удивило, и я решил понаблюдать, когда кто уходит спать. Рассчёт был прост: зачастую люди проверяют телефон уже в постели, так что, отслеживая онлайн-активность человека, можно понять, когда он просыпается и засыпает. К великому сожелению, я так и не придумал простого алгоритма для определения начала и конца сна.</description>
     </item>
     
     <item>
       <title>Выпускники</title>
-      <link>https://ichekanov.github.io/graduates/</link>
+      <link>https://ichekanov.ru/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ichekanov.github.io/graduates/</guid>
+      <guid>https://ichekanov.ru/graduates/</guid>
       <description>Москва Московский Физико-Технический Институт (МФТИ)  Ваня Торопин
 Прикладная математика, физтех-школа прикладной математики и информатики
 Русский язык - 100, Математика - 98, Информатика - 90, Физика - 87
@@ -33,10 +42,10 @@ VK Серёжа Лунев
     
     <item>
       <title>Обо мне</title>
-      <link>https://ichekanov.github.io/about/</link>
+      <link>https://ichekanov.ru/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ichekanov.github.io/about/</guid>
+      <guid>https://ichekanov.ru/about/</guid>
       <description>Ваня Чеканов &amp;mdash; гик, электронщик, программист.
 В свободное время люблю проводить опросы и делать общественно полезные проекты.
 *Очень хороший и весёлый человек.  Характер общительный.  Не женат.*  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- любимый мультфильм -- Образование  Высшая Школа Экономики &amp;mdash; Москва
@@ -46,10 +55,10 @@ VK Серёжа Лунев
     
     <item>
       <title>Счётчики воды</title>
-      <link>https://ichekanov.github.io/water/</link>
+      <link>https://ichekanov.ru/water/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ichekanov.github.io/water/</guid>
+      <guid>https://ichekanov.ru/water/</guid>
       <description>  </description>
     </item>
     
