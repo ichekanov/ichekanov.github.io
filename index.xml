@@ -12,7 +12,7 @@
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/todo/</guid>
-      <description>или как мы писали курсовую за 7 дней</description>
+      <description>или «Как мы писали курсовую за 7 дней»</description>
     </item>
     
     <item>
@@ -57,11 +57,10 @@ VK Серёжа Лунев
       
       <guid>https://ichekanov.ru/about/</guid>
       <description>Ваня Чеканов &amp;mdash; гик, электронщик, программист.
-В свободное время люблю проводить опросы и делать общественно-полезные проекты.
+В свободное время люблю ковырять электронику, делать аналитику и пилить общественно-полезные проекты.
 *Очень хороший и весёлый человек.  Характер общительный.  Не женат.*  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- любимый мультфильм -- Образование  Высшая Школа Экономики &amp;mdash; Москва
-Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 - настоящее время Школа №827 &amp;mdash; Москва
-Инженерный класс / 09.2010 - 05.2021  Проекты  Таск-трекер (курсовая работа) &amp;mdash; GitHub, Статейка
-Python, Django, HTML, CSS, JS; C# / 06.</description>
+Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 &amp;mdash; настоящее время Школа №827 &amp;mdash; Москва
+Инженерный класс / 09.2010 - 05.2021  Проекты   Устройство для автоматического управления форточкой</description>
     </item>
     
     <item>
@@ -71,6 +70,15 @@ Python, Django, HTML, CSS, JS; C# / 06.</description>
       
       <guid>https://ichekanov.ru/water/</guid>
       <description>  </description>
+    </item>
+    
+    <item>
+      <title>Устройство для автоматического управления форточкой</title>
+      <link>https://ichekanov.ru/window/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/window/</guid>
+      <description>чтобы никто в комнате не душнил</description>
     </item>
     
   </channel>
