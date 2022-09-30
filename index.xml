@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Исследование активности одногруппников во Вконтакте</title>
+      <link>https://ichekanov.ru/online-v2/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/online-v2/</guid>
+      <description>«интернет-зависимость убивает, не подпускайте детей к компьютеру!»</description>
+    </item>
+    
+    <item>
       <title>Таск-менеджер на коленке</title>
       <link>https://ichekanov.ru/todo/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
@@ -35,6 +44,16 @@
     </item>
     
     <item>
+      <title>Бот допсихологической помощи</title>
+      <link>https://ichekanov.ru/mental-health-bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/mental-health-bot/</guid>
+      <description>Это единственный по-настоящему крупный и полезный для многих проект Комитета по Цифровизации ВШЭ за первый год от начала его работы. Бот создавался по заказу социального комитета для того, чтобы разгрузить центр психологической помощи Вышки. Идея в том, что помощь работает в формате &amp;laquo;от студента к студенту&amp;raquo;, и только в случае серьёзных проблем студент-волонтёр перенаправляет обратившегося к психологу.
+Я принимал участие в разработке как главный дизайнер диалогов, разработчик части кода бота и продакт-менеджер (погонщик других программистов).</description>
+    </item>
+    
+    <item>
       <title>Выпускники</title>
       <link>https://ichekanov.ru/graduates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,11 +75,11 @@ VK Серёжа Лунев
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/about/</guid>
-      <description>Ваня Чеканов &amp;mdash; гик, электронщик, программист.
-В свободное время люблю ковырять электронику, делать аналитику и пилить общественно-полезные проекты.
-*Очень хороший и весёлый человек.  Характер общительный.  Не женат.*  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- любимый мультфильм -- Образование  Высшая Школа Экономики &amp;mdash; Москва
+      <description>Гик, самодельщик, программист (Pyhton, C/C++), немного дизайнер. Обожаю интернет вещей (по-модному IoT). В свободное время люблю ковырять электронику, делать аналитику и пилить общественно-полезные проекты.
+Образование  Высшая Школа Экономики &amp;mdash; Москва
 Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 &amp;mdash; настоящее время Школа №827 &amp;mdash; Москва
-Инженерный класс / 09.2010 &amp;mdash; 05.2021  Проекты   Устройство для автоматического управления форточкой &amp;mdash; Описание, Видео</description>
+Инженерный класс / 09.2010 &amp;mdash; 05.2021  Проекты   Веб-интерфейс для управления 3D принтером &amp;mdash; [в работе]
+  Устройство для автоматического управления форточкой &amp;mdash; Описание, Видео</description>
     </item>
     
     <item>
