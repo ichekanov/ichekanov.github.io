@@ -5,6 +5,7 @@
     <link>https://ichekanov.ru/tags/</link>
     <description>Recent content in Tags on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://ichekanov.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

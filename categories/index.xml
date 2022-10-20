@@ -5,6 +5,7 @@
     <link>https://ichekanov.ru/categories/</link>
     <description>Recent content in Categories on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://ichekanov.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

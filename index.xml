@@ -5,7 +5,8 @@
     <link>https://ichekanov.ru/</link>
     <description>Recent content on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Исследование активности одногруппников во Вконтакте</title>
       <link>https://ichekanov.ru/online-v2/</link>
@@ -75,11 +76,12 @@ VK Серёжа Лунев
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/about/</guid>
-      <description>Гик, самодельщик, программист (Pyhton, C/C++), немного дизайнер. Обожаю интернет вещей (по-модному IoT). В свободное время люблю ковырять электронику, делать аналитику и пилить общественно-полезные проекты.
+      <description>Гик, самодельщик, программист, немного дизайнер. Обожаю интернет вещей. В свободное время люблю ковырять электронику, делать аналитику и общественно-полезные проекты.
 Образование  Высшая Школа Экономики &amp;mdash; Москва
 Бакалавриат &amp;laquo;Информатика и вычислительная техника&amp;raquo; / 09.2021 &amp;mdash; настоящее время Школа №827 &amp;mdash; Москва
 Инженерный класс / 09.2010 &amp;mdash; 05.2021  Проекты   Веб-интерфейс для управления 3D принтером &amp;mdash; [в работе]
-  Устройство для автоматического управления форточкой &amp;mdash; Описание, Видео</description>
+  Устройство для автоматического управления форточкой &amp;mdash; Описание, Видео
+Atmega328P, ESP8266, TMC2208; C++ / 12.</description>
     </item>
     
     <item>
