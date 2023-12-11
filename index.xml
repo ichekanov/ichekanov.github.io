@@ -8,6 +8,16 @@
     <language>ru</language>
     <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Веб-интерфейс для 3D-принтеров Ultimaker</title>
+      <link>https://ichekanov.ru/ultimaker/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/ultimaker/</guid>
+      <description>Получился вот такой интерфейс:
+А ещё мы про это научную статью написали и презентацию сделали!</description>
+    </item>
+    
+    <item>
       <title>Исследование активности одногруппников во Вконтакте</title>
       <link>https://ichekanov.ru/online-v2/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
@@ -77,7 +87,7 @@ VK Серёжа Лунев
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/about/</guid>
-      <description>Последнее обновление: 10.01.2023</description>
+      <description>Последнее обновление: 11.12.2023</description>
     </item>
     
     <item>
