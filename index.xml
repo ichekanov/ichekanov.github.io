@@ -6,15 +6,20 @@
     <description>Recent content on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year} Иван Чеканов</copyright>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ichekanov.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Веб-интерфейс для 3D-принтеров Ultimaker</title>
       <link>https://ichekanov.ru/ultimaker/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/ultimaker/</guid>
-      <description>Получился вот такой интерфейс:
-А ещё мы про это научную статью написали и презентацию сделали!</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;poster.gif&#34; alt=&#34;Презентационный постер&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Получился вот такой интерфейс:&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;main-1.png&#34; alt=&#34;Интерфейс программы&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;А ещё мы про это &lt;a href=&#34;thesis.pdf&#34;&gt;научную статью&lt;/a&gt; написали и &lt;a href=&#34;presentation.pdf&#34;&gt;презентацию&lt;/a&gt; сделали!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,8 +55,27 @@
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/online/</guid>
-      <description>Одним декабрьским утром я проснулся, зашел в ВК и в очередной раз обнаружил, что мои одногруппники активно переписывались в 2 часа ночи. Меня это в очередной раз очень удивило, и я решил понаблюдать, когда кто уходит спать. Расчёт был прост: зачастую люди проверяют телефон уже в постели, так что, отслеживая онлайн-активность человека, можно понять, когда он просыпается и засыпает.
-К великому сожалению, я так и не придумал простого алгоритма для определения начала и конца сна.</description>
+      <description>&lt;p&gt;Одним декабрьским утром я проснулся, зашел в ВК и в очередной раз обнаружил, что мои одногруппники активно переписывались в 2 часа ночи. Меня это в очередной раз очень удивило, и я решил понаблюдать, когда кто уходит спать. Расчёт был прост: зачастую люди проверяют телефон уже в постели, так что, отслеживая онлайн-активность человека, можно понять, когда он просыпается и засыпает.&lt;/p&gt;
+&lt;p&gt;К великому сожалению, я так и не придумал простого алгоритма для определения начала и конца сна. Ведь одни засыпают в 23:00 и просыпаются в 6:00, а другие только засыпают в 7 утра. Конечно, можно разметить данные руками, тем более они уже есть в графическом виде. Но мне уже лень, да и получившиеся графики сами по себе довольно информативны.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ichekanov.ru/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ichekanov.ru/nav/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+  &lt;meta charset=&#34;UTF-8&#34;&gt;
+  &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://navigator.ischknv.netcraze.pro&#34;&gt;
+  &lt;title&gt;Перенаправление...&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Если вы не были перенаправлены автоматически, перейдите по &lt;a href=&#34;https://navigator.ischknv.netcraze.pro&#34;&gt;ссылке на navigator.ischknv.netcraze.pro&lt;/a&gt;.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
     </item>
     
     <item>
@@ -60,8 +84,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/mental-health-bot/</guid>
-      <description>Это единственный по-настоящему крупный и полезный для многих проект Комитета по Цифровизации ВШЭ за первый год от начала его работы. Бот создавался по заказу социального комитета для того, чтобы разгрузить центр психологической помощи Вышки. Идея в том, что помощь работает в формате &amp;laquo;от студента к студенту&amp;raquo;, и только в случае серьёзных проблем студент-волонтёр перенаправляет обратившегося к психологу.
-Я принимал участие в разработке как главный дизайнер диалогов, разработчик части кода бота и продакт-менеджер (погонщик других программистов).</description>
+      <description>&lt;p&gt;Это единственный по-настоящему крупный и полезный для многих проект Комитета по Цифровизации ВШЭ за первый год от начала его работы. Бот создавался по заказу социального комитета для того, чтобы разгрузить центр психологической помощи Вышки. Идея в том, что помощь работает в формате &amp;laquo;от студента к студенту&amp;raquo;, и только в случае серьёзных проблем студент-волонтёр перенаправляет обратившегося к психологу.&lt;/p&gt;
+&lt;p&gt;Я принимал участие в разработке как главный дизайнер диалогов, разработчик части кода бота и продакт-менеджер (погонщик других программистов).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,24 +94,144 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/graduates/</guid>
-      <description>Москва Московский Физико-Технический Институт (МФТИ) Ваня Торопин
-Прикладная математика, физтех-школа прикладной математики и информатики
-Русский язык - 100, Математика - 98, Информатика - 90, Физика - 87
-VK, Telegram Российский Национальный Исследовательский Медицинский Университет им. Н. И. Пирогова (РНИМУ) Мария Трофимова
-Клиническая психология в здравоохранении, факультет клинической психологии и социальной работы (психолого-социальный)
-Русский язык - 90, Математика профиль - 80, Биология - 78
-VK Серёжа Лунев
-Педиатрия, факультет педиатрии
-Русский язык - 94, Математика профиль - 56, Биология - 82, Химия - 76</description>
-    </item>
-    
-    <item>
-      <title>До встречи осталось</title>
-      <link>https://ichekanov.ru/timer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ichekanov.ru/timer/</guid>
-      <description> </description>
+      <description>&lt;h1 id=&#34;москва&#34;&gt;Москва&lt;/h1&gt;
+&lt;h3 id=&#34;московский-физико-технический-институт-мфти&#34;&gt;Московский Физико-Технический Институт (МФТИ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ваня Торопин&lt;/strong&gt;&lt;br&gt;
+Прикладная математика, физтех-школа прикладной математики и информатики&lt;br&gt;
+Русский язык - 100,  Математика - 98, Информатика - 90, Физика - 87&lt;br&gt;
+&lt;a href=&#34;https://vk.com/i.toropin&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/retekou&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российский-национальный-исследовательский-медицинский-университет-имнипирогова-рниму&#34;&gt;Российский Национальный Исследовательский Медицинский Университет им. Н. И. Пирогова (РНИМУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Мария Трофимова&lt;/strong&gt;&lt;br&gt;
+Клиническая психология в здравоохранении, факультет клинической психологии и социальной работы (психолого-социальный)&lt;br&gt;
+Русский язык - 90, Математика профиль - 80, Биология - 78&lt;br&gt;
+&lt;a href=&#34;https://vk.com/angegelol&#34;&gt;VK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Серёжа Лунев&lt;/strong&gt;&lt;br&gt;
+Педиатрия, факультет педиатрии&lt;br&gt;
+Русский язык - 94, Математика профиль - 56, Биология - 82, Химия - 76&lt;br&gt;
+&lt;a href=&#34;https://vk.com/lunev_ne_on&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/MimoCrok&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;финансовый-университет-при-правительстве-российской-федерации-фу&#34;&gt;Финансовый Университет при Правительстве Российской Федерации (ФУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Даниил Федулов&lt;/strong&gt;&lt;br&gt;
+Управление цифровыми инновациями, высшая школа управления&lt;br&gt;
+Математика профиль - 50 , Русский язык - 72, Английский язык - 86&lt;br&gt;
+&lt;a href=&#34;https://instagram.com/dandurable&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Мария Рыжова&lt;/strong&gt;&lt;br&gt;
+Экономика, факультет налогов, аудита и бизнес анализа&lt;br&gt;
+Русский язык - 100, Математика профиль - 80, Обществознание - 88&lt;br&gt;
+&lt;a href=&#34;https://m.vk.com/ryzhovamasha01&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://www.instagram.com/_ryzhova_01/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;московский-автомобильно-дорожный-государственный-технический-университет-мади&#34;&gt;Московский Автомобильно-Дорожный Государственный Технический Университет (МАДИ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Катя Урлапова&lt;/strong&gt;&lt;br&gt;
+Логистика и управление цепями поставок, факультет логистики и общетранспортных проблем&lt;br&gt;
+Русский язык - 94, Обществознание - 81, Математика профиль - 56&lt;br&gt;
+&lt;a href=&#34;https://vk.com/catherine.urlapova&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/urlapushka&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;национальный-исследовательский-университет-высшая-школа-экономики-вшэ&#34;&gt;Национальный исследовательский университет «Высшая школа экономики» (ВШЭ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Иван Чеканов&lt;/strong&gt;&lt;br&gt;
+Информатика и вычислительная техника, московский институт электроники и математики&lt;br&gt;
+Математика профиль - 99, Информатика - 98, Физика - 95, Русский язык - 98&lt;br&gt;
+&lt;a href=&#34;https://vk.com/chekanov_ivan&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/chekanov_ivan&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Дмитрий Касперский&lt;/strong&gt;&lt;br&gt;
+Программа двух дипломов НИУ ВШЭ и Лондонского университета по международным отношениям, факультет мировой экономики и мировой политики&lt;br&gt;
+Математика профиль - 70, Обществознание - 79, Английский язык - 90, Русский язык - 92&lt;br&gt;
+&lt;a href=&#34;https://vk.com/lesnouu&#34;&gt;VK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Аня Задаля&lt;/strong&gt;&lt;br&gt;
+Совместный бакалавриат НИУ ВШЭ и ЦПМ, факультет математики&lt;br&gt;
+Математика профиль - 94, Русский язык - 96, Физика - 74, Информатика - 90&lt;br&gt;
+&lt;a href=&#34;https://vk.com/id322926911&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/clowndrinkstea&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;московский-государственный-технический-университет-имнэбаумана-мгту&#34;&gt;Московский Государственный Технический Университет им. Н. Э. Баумана (МГТУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Александр Галкин&lt;/strong&gt;&lt;br&gt;
+Проектирование производство и эксплуатация ракет и ракетно космических комплексов, специальное машиностроение (кафедра СМ-2)&lt;br&gt;
+Математика профиль - 80, Русский язык - 80, Физика - 85&lt;br&gt;
+&lt;a href=&#34;https://t.me/ailgblanc&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Станислав Котенков&lt;/strong&gt;&lt;br&gt;
+Наноинженерия, радиоэлектроника и лазерная техника (кафедра РЛ-6)&lt;br&gt;
+Математика профиль - 90, Физика - 89, Русский язык - 86&lt;br&gt;
+&lt;a href=&#34;https://vk.com/id_212893594&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://instagram.com/st.kotenkov_21&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Королев Никита&lt;/strong&gt;&lt;br&gt;
+Прикладная математика (математическое моделирование), фундаментальные науки (кафедра ФН-2)&lt;br&gt;
+Математика профиль - 90, Информатика - 90, Русский язык - 94&lt;br&gt;
+&lt;a href=&#34;https://t.me/fpleasure&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;первый-московский-государственный-медицинский-университет-имимсеченова-мгму&#34;&gt;Первый Московский Государственный Медицинский Университет им. И. М. Сеченова (МГМУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Виктория Юшкова&lt;/strong&gt;&lt;br&gt;
+Лечебное дело, институт клинической медицины&lt;br&gt;
+Математика профиль - 62, Биология - 79, Русский язык - 90, Химия - 59&lt;br&gt;
+&lt;a href=&#34;https://http://vk.com/canarybom&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/OasisCanary&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;московский-государственный-университет-имени-м-в-ломоносова-мгу&#34;&gt;Московский Государственный Университет имени М. В. Ломоносова (МГУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Марк Новиков&lt;/strong&gt;&lt;br&gt;
+Химия, физика и механика материалов, факультет наук о материалах&lt;br&gt;
+&lt;a href=&#34;https://vk.com/mrknvkv&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/mrknvkv&#34;&gt;Telegram&lt;/a&gt;, &lt;a href=&#34;https://instagram.com/mrknvkv&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российский-государственный-аграрный-университет---мсха-имкатимирязева-мсха&#34;&gt;Российский Государственный Аграрный Университет - МСХА им. К. А. Тимирязева (МСХА)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Лиза Тарасова&lt;/strong&gt;&lt;br&gt;
+Ветеринарно-санитарная экспертиза, факультет зоотехники и биологии&lt;br&gt;
+Русский язык - 86, Математика профиль - 45, Биология - 72, Химия - 56&lt;br&gt;
+&lt;a href=&#34;https://vk.com/lisetta404&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/lisska404&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российский-экономический-университет-имгвплеханова-рэу&#34;&gt;Российский экономический университет им. Г. В. Плеханова (РЭУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Максим Сергеенков&lt;/strong&gt;&lt;br&gt;
+Прикладная математика и информатика, институт математики, информационных систем и цифровой экономики&lt;br&gt;
+Математика профиль - 64, Русский язык - 60, Информатика - 56&lt;br&gt;
+&lt;a href=&#34;https://vk.com/sayonarasubeteni&#34;&gt;VK&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российский-химико-технический-университет-имдименделеева-рхту&#34;&gt;Российский Химико-Технический Университет им. Д. И. Менделеева (РХТУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Архип Семёнов&lt;/strong&gt;&lt;br&gt;
+Информационные системы и технологии, факультет цифровых технологий и химического инжиниринга&lt;br&gt;
+Математика профиль - 45, Информатика - 60, Русский язык - 76&lt;br&gt;
+&lt;a href=&#34;https://vk.com/mykatharsis&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/rsxr_tg&#34;&gt;Telegram&lt;/a&gt;, &lt;a href=&#34;https://instagram.com/cursedsoulqwe&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;московский-политехнический-университет-мпу&#34;&gt;Московский Политехнический Университет (МПУ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Дарья Семыкина&lt;/strong&gt;&lt;br&gt;
+Строительство, факультет урбанистики и городского хозяйства&lt;br&gt;
+Математика профиль - 78, Русский язык - 90, Физика - 60&lt;br&gt;
+&lt;a href=&#34;https://vk.com/id268344262&#34;&gt;VK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Немоловская Кристина&lt;/strong&gt;&lt;br&gt;
+Графический дизайн и мультимедиа, институт графики и искусства книги им. В. А. Фаворского&lt;br&gt;
+Суммарно - 195&lt;br&gt;
+&lt;a href=&#34;https://t.me/kristina090104&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;московский-авиационный-институт-маи&#34;&gt;Московский Авиационный Институт (МАИ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Игорь Зенин&lt;/strong&gt;&lt;br&gt;
+Электротехника и электроэнергетика, факультет систем управления, информатики и электроэнергетики&lt;br&gt;
+Математика профиль - 82, Русский язык - 82, Физика - 66&lt;br&gt;
+&lt;a href=&#34;https://vk.com/aimwaredotnet&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/shadowsteel&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российская-академия-народного-хозяйства-и-государственной-службы-ранхигс&#34;&gt;Российская Академия Народного Хозяйства и Государственной Службы (РАНХиГС)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Виктория Кукушкина&lt;/strong&gt;&lt;br&gt;
+Финансовый контроль и государственный аудит, факультет экономики&lt;br&gt;
+&lt;a href=&#34;https://t.me/vikusya7k&#34;&gt;Telegram&lt;/a&gt;, &lt;a href=&#34;https://instagram.com/viktoriakukushkina&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;российский-университет-транспорта-московский-институт-инженеров-транспорта-рут-миит&#34;&gt;Российский Университет Транспорта Московский Институт Инженеров Транспорта (РУТ МИИТ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Букарев Артём&lt;/strong&gt;&lt;br&gt;
+Прикладная информатика, российская открытая академия транспорта&lt;br&gt;
+Математика профиль - 56, Русский язык - 84, Информатика - 40&lt;br&gt;
+&lt;a href=&#34;https://vk.com/jamjlly&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/bcdbcddd&#34;&gt;Telegram&lt;/a&gt;, &lt;a href=&#34;https://instagram.com/jollysjam&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;академия-гражданской-защиты-мчс-россии-агз&#34;&gt;Академия гражданской защиты МЧС России (АГЗ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Мария Григорова&lt;/strong&gt;&lt;br&gt;
+Аэронавигация, инженерный факультет&lt;br&gt;
+&lt;a href=&#34;https://vk.com/mdbsmg&#34;&gt;VK&lt;/a&gt;, &lt;a href=&#34;https://t.me/mdbsmg&#34;&gt;Telegram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -105,7 +249,9 @@ VK Серёжа Лунев
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ichekanov.ru/water/</guid>
-      <description> </description>
+      <description>&lt;iframe class=&#34;water-graph&#34; src=&#34;https://thingspeak.com/channels/1662776/charts/1?width=auto&amp;height=auto&amp;bgcolor=%23ffffff&amp;color=%232F7EB2&amp;days=2&amp;dynamic=true&amp;results=60&amp;sum=30&amp;title=%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D1%87%D0%B5%D0%BD%D0%BE+%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9+%D0%B2%D0%BE%D0%B4%D1%8B&amp;type=column&amp;xaxis=%D0%94%D0%B0%D1%82%D0%B0&amp;yaxis=%D0%9B%D0%B8%D1%82%D1%80%D1%8B&#34;&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;iframe class=&#34;water-graph&#34; src=&#34;https://thingspeak.com/channels/1662776/charts/2?width=auto&amp;height=auto&amp;bgcolor=%23ffffff&amp;color=%23d62020&amp;days=2&amp;dynamic=true&amp;results=60&amp;sum=30&amp;title=%D0%9F%D0%BE%D1%82%D1%80%D0%B0%D1%87%D0%B5%D0%BD%D0%BE+%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B9+%D0%B2%D0%BE%D0%B4%D1%8B&amp;type=column&amp;xaxis=%D0%94%D0%B0%D1%82%D0%B0&amp;yaxis=%D0%9B%D0%B8%D1%82%D1%80%D1%8B&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
