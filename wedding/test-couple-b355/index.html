@@ -26,13 +26,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <meta name="description" content="Тестик и Тесточка, приглашаем вас на свадьбу Леры и Вани. 1 июля 2026, среда.">
+  <meta name="description" content="Тестик и Тесточка, приглашаем вас на нашу свадьбу. 1 июля 2026, среда.">
   <title>Свадьба Леры и Вани</title>
   <link rel="icon" type="image/png" sizes="512x512" href="https://ichekanov.ru/wedding/icon.png">
   <link rel="shortcut icon" href="https://ichekanov.ru/wedding/icon.png">
   <link rel="apple-touch-icon" href="https://ichekanov.ru/wedding/icon.png">
   <meta property="og:title" content="Свадьба Леры и Вани">
-  <meta property="og:description" content="Тестик и Тесточка, приглашаем вас на свадьбу Леры и Вани. 1 июля 2026, среда.">
+  <meta property="og:description" content="Тестик и Тесточка, приглашаем вас на нашу свадьбу. 1 июля 2026, среда.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://ichekanov.ru/wedding/test-couple-b355/">
   <meta property="og:image" content="https://ichekanov.ru/wedding/icon.png">
@@ -42,15 +42,16 @@
   <meta property="og:site_name" content="ichekanov.ru">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Свадьба Леры и Вани">
-  <meta name="twitter:description" content="Тестик и Тесточка, приглашаем вас на свадьбу Леры и Вани. 1 июля 2026, среда.">
+  <meta name="twitter:description" content="Тестик и Тесточка, приглашаем вас на нашу свадьбу. 1 июля 2026, среда.">
   <meta name="twitter:image" content="https://ichekanov.ru/wedding/icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap">
-  <link rel="stylesheet" href="../../css/wedding.min.37f717be053f94b07db7c07ba4f0822b99c9c6dc0e68406ddaf3e916a8ca0365.css" integrity="sha256-N/cXvgU/lLB9t8B7pPCCK5nJxtwOaEBt2vPpFqjKA2U=">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Manrope:wght@200..800&display=swap">
+  <link rel="stylesheet" href="../../css/wedding.min.da76ad0e38a1ec260fc310daf0407d2626ddea0ccd9c14fb24906bc80d7ac62a.css" integrity="sha256-2natDjih7CYPwxDa8EB9Jibd6gzNnBT7JJBryA16xio=">
 </head>
 
 <body class="wedding-body">
+  <div class="wedding-hearts" aria-hidden="true"></div>
   <main class="wedding-shell">
     <article class="wedding-card">
       <header class="wedding-hero">
@@ -169,11 +170,15 @@
         <div class="wedding-gifts-grid">
           <div class="wedding-mini-card">
             <p class="wedding-mini-card-title">Лучше деньгами</p>
-            <p class="wedding-mini-card-copy">Если захотите порадовать нас подарком, будем благодарны вкладу в&nbsp;бюджет нашей молодой семьи.</p>
+            <p class="wedding-mini-card-copy">Мы будем рады вашему вкладу в&nbsp;бюджет нашей молодой семьи!</p>
           </div>
           <div class="wedding-mini-card">
-            <p class="wedding-mini-card-title">Вместо цветов</p>
-            <p class="wedding-mini-card-copy">Вместо цветов будем рады подписке на&nbsp;букет. Ссылка&nbsp;— TBD.</p>
+            <p class="wedding-mini-card-title">Но не обязательно</p>
+            <p class="wedding-mini-card-copy">Если всё&nbsp;же хотите подарить нам что-то физическое, то&nbsp;заглядывайте в&nbsp;<a href="https://followish.io/mywishlist/xh9ukfpkud9yqb" target="_blank" rel="noopener">вишлист</a>.</p>
+          </div>
+          <div class="wedding-mini-card">
+            <p class="wedding-mini-card-title">И без цветов</p>
+            <p class="wedding-mini-card-copy">Они завянут, и мы будем грустить 😭</p>
           </div>
         </div>
       </section>
@@ -223,6 +228,40 @@
       <p class="wedding-footer-note">Встретимся на&nbsp;торжестве!</p>
     </article>
   </main>
+  <script>
+    (function () {
+      if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+      var container = document.querySelector(".wedding-hearts");
+      if (!container) return;
+      var colors = [
+        "#ff4f87", "#ff6ea0", "#ff8db4", "#ffadc8",
+        "#fe74a0", "#e8467a", "#ffc4d6", "#d63a6f"
+      ];
+      var svg = '<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
+        + '<path fill="currentColor" d="M16 27.6C5.2 18.7 4 12.7 7.6 9.4c2.6-2.4 6.4-1.5 8.4 1.6 2-3.1 5.8-4 8.4-1.6 3.6 3.3 2.4 9.3-8.4 18.2z"/>'
+        + '</svg>';
+      function rand(min, max) { return Math.random() * (max - min) + min; }
+      var count = 32;
+      var frag = document.createDocumentFragment();
+      for (var i = 0; i < count; i++) {
+        var h = document.createElement("span");
+        h.className = "wedding-heart";
+        h.style.setProperty("--x", rand(0, 100) + "vw");
+        h.style.setProperty("--size", rand(10, 22) + "px");
+        h.style.setProperty("--color", colors[Math.floor(Math.random() * colors.length)]);
+        h.style.setProperty("--duration", rand(7, 15) + "s");
+        h.style.setProperty("--delay", (-rand(0, 15)) + "s");
+        h.style.setProperty("--opacity", rand(0.55, 0.95));
+        var inner = document.createElement("span");
+        inner.className = "wedding-heart-inner";
+        inner.style.setProperty("--rotate", rand(-45, 45) + "deg");
+        inner.innerHTML = svg;
+        h.appendChild(inner);
+        frag.appendChild(h);
+      }
+      container.appendChild(frag);
+    })();
+  </script>
   <script>
     (function () {
       var el = document.querySelector("[data-countdown-target]");
