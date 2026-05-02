@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Свадьба on Заметочки</title>
-    <link>https://ichekanov.ru/wedding/</link>
+    <link>https://ichekanov.ru/wedding-invitations/</link>
     <description>Recent content in Свадьба on Заметочки</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/wedding/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year} Иван Чеканов</copyright><atom:link href="https://ichekanov.ru/wedding-invitations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
